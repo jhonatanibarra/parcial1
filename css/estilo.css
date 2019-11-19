@@ -1,0 +1,29 @@
+*{
+    margin:1;
+    padding: 2;
+    font-family: "montserrart","sans-serif";
+    box-sizing: border-box;
+}
+body{
+    background-image:linear-gradient(120deg,blue,white) ;
+    min-height: 100vh;
+}
+.txtBox{
+    width: 100%;
+    border:none;
+    border-bottom: 2px solid #000;
+    background: none;
+    padding:10px;
+    outline: none;
+    font-size: 20px;
+}
+h3{ 
+    margin:10px;
+}
+.tarea{
+    max-width: 800px;
+    background: rgba(255, 255, 255,0.5);
+    padding: 18px;
+    margin: auto;
+    overflow: hidden;
+}
